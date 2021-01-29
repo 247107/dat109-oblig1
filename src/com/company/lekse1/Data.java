@@ -1,4 +1,4 @@
-package com.company;
+package com.company.lekse1;
 
 
 public class Data {
